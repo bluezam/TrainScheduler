@@ -1,0 +1,16 @@
+body {
+
+    background-image: url("../images/together.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.jumbotron  {
+
+    background-image: url("../images/thomas.jpg");
+    color: white;
+
+}
